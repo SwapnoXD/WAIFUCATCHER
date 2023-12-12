@@ -23,7 +23,7 @@ else:
     OWNER_ID = 6765826972
     sudo_users = ["6765826972", "6046482147"]
     GROUP_ID = -100
-    TOKEN = ""
+    TOKEN = "6203802215:AAGuwI0QMgAkm96Kq_NYz_hSoakbugNqHeQ"
     mongo_url = "mongodb://localhost:27017/"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
     SUPPORT_CHAT = "Collect_em_support"
